@@ -1,0 +1,18 @@
+{
+    "name": "nandan/contact",
+    "description": "Learning new package development",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nandan"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Nandan\\Contact\\": "src/"
+        }
+    }
+}
